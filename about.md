@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am a software developer residing in Salem NH. I got my bachelors of science in Business Administration at the University of New Hampshire, with a minor in Computer Science. I feel in love with software development during my undergraduate, and decided to stay on and get my masters in Computer Science at the same school. 
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Personally, I got married in July of 2017, and my interests involve music and sports. I play three instruments, was part of a college a cappella group, and am an avid bowler and ultimate frisbee player. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+Feel free to contact me about any and everything at [stephenchambers515@gmail.com](stephenchambers515@gmail.com)
