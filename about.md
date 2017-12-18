@@ -10,10 +10,10 @@ Personally, I got married in July of 2017, and my interests involve music and sp
 
 
 ### Projects
-* [Textbook Exchange](https://github.com/schambersnh/school/tree/master/courses/cs619): Taught myself SQL, design patterns, and the Amazon Product Advertising API
-* [SPDY vs HTTP /1.1](https://github.com/schambersnh/school/tree/master/spdy): Developed a testing framework in python using Selenium Webdriver to control a network emulator
-* [Anytime vs Realtime Heuristic Search for Online Planning](https://github.com/UNH-Robotics/real-time-search): Wrote simulation code to compare realtime and anytime heuristic planning for robots\\[-0.75em]
-* [Chemistry Tutoring Placement](https://github.com/UNH-Chemistry-Tutoring-Placement): Utilized combinatorial optimization algorithms to help the chemistry department map tutors to tutees
+* [Textbook Exchange](https://github.com/schambersnh/school/tree/master/courses/cs619): An application written in Java utilizing a SQL database. Prior to this class, I had no knowledge of SQL, and that was fun to learn on the fly. I utilized a few popular design patterns and the Amazon Product Advertising API to look up text book information and pictures by ISBN.
+* [SPDY vs HTTP /1.1](https://github.com/schambersnh/school/tree/master/spdy): I did an empirical research project as part of my undergraduate focusing on comparing performance between HTTP /1.1 and SPDY. SPDY was the hip new Google proprietary protocol at the time, and it was eventually approved as the working base of HTTP / 2.0, a much needed upgrade. I developed a testing framework in python using Selenium Webdriver to control a network emulator in the middle of my laptop and a webserver to gather mass amounts of data for analysis.
+* [Anytime vs Realtime Heuristic Search for Online Planning](https://github.com/UNH-Robotics/real-time-search): Wrote simulation code to compare realtime and anytime heuristic planning for robots. My team's paper was accepted into [SoCS](http://socs17.dreamhosters.com/) in 2016.
+* [Chemistry Tutoring Placement](https://github.com/UNH-Chemistry-Tutoring-Placement): Utilized combinatorial optimization algorithms to help the chemistry department map tutors to tutees. My team was responsible for the tree search, while another team tried an iterative local search. This project was originally unappealing to me, but after thinking about it more, and realizing that if 300 students had to be placed in 10 study groups, that's a massive state space of 10^300 possible solutions! It was fun competing to see who could get the better solution with such a complex problem.
 
 ### Contact me
 
