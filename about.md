@@ -17,9 +17,9 @@ This successfully caught a $90 million dollar potential impact early in 2021, an
 * Pet Insurance App: Also developed at a company hackathon, so the source code is unfortunately locked down. Worked on a team to develop an android app that read vet bills using Tesseract, an open source OCR technology. The app worked well enough, but we had difficulties getting above a 80% success rate.  With more time, I would've went down two avenues to fix this problem. The first would be to use OpenCV to 'massage' the picture into something that the framework had an easier time working with (i.e. removing parts of the image that were irrelevant). The second would be to look into a licensed OCR framework that may have more image processing capabilities. Overall, it was a fun project that I'd like to tackle again at some point in the future. 
 
 * [SPDY vs HTTP /1.1](https://github.com/schambersnh/school/tree/master/spdy): I did an empirical research project as part of my undergraduate focusing on comparing performance between HTTP /1.1 and SPDY. SPDY was the hip new Google proprietary protocol at the time, and it was eventually approved as the working base of HTTP / 2.0, a much needed upgrade. I developed a testing framework in python using Selenium Webdriver to control a network emulator in the middle of my laptop and a webserver to gather mass amounts of data for analysis.
-* 
+
 * [Anytime vs Realtime Heuristic Search for Online Planning](https://github.com/UNH-Robotics/real-time-search): Wrote simulation code to compare realtime and anytime heuristic planning for robots. My team's paper was accepted into [SoCS](http://socs17.dreamhosters.com/) in 2016.
-* 
+
 * [Chemistry Tutoring Placement](https://github.com/UNH-Chemistry-Tutoring-Placement): Utilized combinatorial optimization algorithms to help the chemistry department map tutors to tutees. My team was responsible for the tree search, while another team tried an iterative local search. This project was originally unappealing to me, but after thinking about it more, and realizing that if 300 students had to be placed in 10 study groups, that's a massive state space of 10^300 possible solutions! It was fun competing to see who could get the better solution with such a complex problem.
 
 ### Contact me
