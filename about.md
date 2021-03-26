@@ -12,7 +12,7 @@ Personally, I play three instruments, was part of a college a cappella group, an
 ### Projects
 * Toucan: Our team had an issue where upstream data caused a lot of headaches on our side. To have better controls in place, I developed a machine learning solution utilizing AWS sagemaker and the random cut forest algorithm to determine if the files we received from that team were 'normal' or not. The algorithm would return a confidence score, and if it was 2 standard deviations away from the mean, we would warn our team on slack. Three standard deviations? Fail the job, sound the alarms, look into the issue. This **successfully** caught a $90 million dollar potential impact early in 2021, and has been adopted by multiple other teams in the company.
 
-* Down payment saver - Magic Mirror: Grabbed some open source code, and developed a module (the house in the middle) to track how down payment saving is going! Each brick is 1% of your goal towards that eventual dream home.
+* Down payment saver - Magic Mirror: Grabbed some open source code, and developed a module (the house in the middle) to track how down payment saving is going! Each brick is 1% of your goal towards that eventual dream home. Utilized canvas.js to draw the house, backend is hooked up to a google sheet that's updated manually on a monthly basis with savings, investments, etc. Would love to introduce plaid, or oauth connections to banks in the future.
 
 ![image](https://user-images.githubusercontent.com/8736660/112698860-01512880-8e61-11eb-963f-8a82e236ba56.png)
 
