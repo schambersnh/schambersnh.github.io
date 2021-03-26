@@ -10,9 +10,7 @@ Personally, I play three instruments, was part of a college a cappella group, an
 
 
 ### Projects
-* Toucan: Our team had an issue where upstream data caused a lot of headaches on our side. To have better controls in place, I developed a machine learning solution utilizing AWS sagemaker and the random cut forest algorithm to determine if the files we received from that team were 'normal' or not. The algorithm would return a confidence score, and if it was 2 standard deviations away from the mean, we would warn our team on slack. Three standard deviations? Fail the job, sound the alarms, look into the issue.
-
-This successfully caught a $90 million dollar potential impact early in 2021, and has been adopted by multiple other teams in the company.
+* Toucan: Our team had an issue where upstream data caused a lot of headaches on our side. To have better controls in place, I developed a machine learning solution utilizing AWS sagemaker and the random cut forest algorithm to determine if the files we received from that team were 'normal' or not. The algorithm would return a confidence score, and if it was 2 standard deviations away from the mean, we would warn our team on slack. Three standard deviations? Fail the job, sound the alarms, look into the issue. This **successfully** caught a $90 million dollar potential impact early in 2021, and has been adopted by multiple other teams in the company.
 
 * Pet Insurance App: Also developed at a company hackathon, so the source code is unfortunately locked down. Worked on a team to develop an android app that read vet bills using Tesseract, an open source OCR technology. The app worked well enough, but we had difficulties getting above a 80% success rate.  With more time, I would've went down two avenues to fix this problem. The first would be to use OpenCV to 'massage' the picture into something that the framework had an easier time working with (i.e. removing parts of the image that were irrelevant). The second would be to look into a licensed OCR framework that may have more image processing capabilities. Overall, it was a fun project that I'd like to tackle again at some point in the future. 
 
